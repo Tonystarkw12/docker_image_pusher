@@ -1,4 +1,5 @@
 krillinai/krillin:latest
 ghcr.io/khoj-ai/khoj:latest
+ghcr.io/sillytavern/sillytavern:latest
 #支持指定架构
 
